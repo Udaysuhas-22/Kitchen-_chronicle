@@ -25,11 +25,9 @@ The **Kitchen Chronicle** platform consists of multiple interconnected entities:
 - **Logical Diagram**: Detailed database schema showing how data is structured.
 
 ## Technologies Used 🛠️
-- **Backend**: Python, Flask/Django
-- **Frontend**: React.js / HTML, CSS, JavaScript
 - **Database**: MySQL / PostgreSQL
 - **Cloud Storage**: Azure Blob Storage
 - **Machine Learning**: Personalized recipe recommendations using Azure Cognitive Services
-- **Data Visualization**: Power BI / Tableau
+- **Data Visualization**: Power BI / Power Apps
 
 
